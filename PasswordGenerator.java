@@ -1,7 +1,7 @@
 import java.io.*;  
 import java.util.Random;
 import java.util.Scanner;
-
+// **||** Made by Emirhan **||**
     public class PasswordGenerator {
     public static void main(String[] args) throws IOException {
         System.out.println("What do you want to create a password for ?");
